@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BillyBacker&show_icons=true&theme=nightowl&locale=en" alt="lebrancconvas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyBacker&layout=compact&theme=dracula&no-bg=true&no-frame=true" alt="lebrancconvas" /></p>
